@@ -80,7 +80,6 @@
 
 •	Items with no additional conditions at time adding to cart could be added
 
-•	The project is completed for Mac OS only
 
 ##Additional Test Scenarios to be added if time permits:
 
