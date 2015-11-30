@@ -77,7 +77,6 @@ public class HelperMethod {
 		String[] ItemsCount = getPathLocation(NumberOfItemsPath).getText()
 				.split(" ");
 		String NumberofItems = ItemsCount[0];
-		System.out.println("number of items " + NumberofItems);
 		return NumberofItems;
 	}
 	//Get Details of items to be added to cart
