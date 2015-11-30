@@ -46,9 +46,12 @@
 
 •	Eclipse
 
-•	Selenium Jars
+•	Selenium Jars(included in the project)
 
 •	Junit
+
+•	Firefox Browser
+
 
 
 ###Setting up and running the project:
